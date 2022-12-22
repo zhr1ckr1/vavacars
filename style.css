@@ -443,16 +443,19 @@ h3
     margin-top: 25px;
     font-weight: bold;
 }
-.arkaplan
-{
-	width: 1350px;
-	height: auto; 
-}
 .arkaplan 
 {
 	width: 1350px;
-	height: 416px;
 	background-image: url(arkaplan.jpeg); 
+	padding-bottom: 28px;
+}
+.arkaplan p
+{
+	margin-top: 114px;
+    margin-left: 34px;
+    text-align: center;
+    color: white;
+    line-height: 2;
 }
 .arkaplan h1 
 {
@@ -467,7 +470,7 @@ h3
 	width: 262px;
 	height: 52px;
 	border-radius: 10px;
-	margin-top: 200px;
+	margin-top: 26px;
 	margin-left: 550px;
 	font-weight: 800;
 	color: white;
@@ -475,6 +478,13 @@ h3
 	border-color: white;
 	font-size: 15px;
 } 
+.arkaplan img
+{
+	width: 50px;
+	height: 50px;
+	margin-bottom: -56px;
+	margin-left: 98px;
+}
 .touch
 {
 	width: 1350px;
@@ -496,6 +506,81 @@ h3
     padding-top: 8px;
     padding-left: 28%;
 }
-
-
+.promises p img
+{
+width: 31px;
+height: 31px;
+}
+.promises_options p img
+{
+	width: 31px;
+    height: 31px;	
+}
+.bottom
+{
+	width: 1350px;
+	height: 314px;
+}
+.bottom img
+{
+	padding-top: 70;
+    padding-left: 110px;
+	float: left;
+}
+.bottom ul 
+{
+	font-size: 14px;
+    line-height: 2.3;
+    margin-top: 65px;
+    list-style-type: none;
+    float: left;
+    margin-left: 50px;
+}
+.bottom ul li a
+{
+	margin-top: -30px;
+	text-decoration: none;
+	color: #000000;
+}
+.resim img
+{
+	width: 135px;
+    height: 94px;
+	float: left;
+    margin-left: -94px;
+}
+.resim p
+{
+    margin-top: -17px;
+    margin-left: 1106px;
+    color: #178546;
+    font-weight: bold;
+}
+.resim i
+{
+	margin-top: 217px;
+    margin-left: -165px;
+}
+.alt img
+{
+	margin-left: -177px;
+    padding-left: 85px;
+    margin-right: 119px;
+    float: right;
+}
+hr
+{
+	margin-top: 52px;
+}
+.son
+{
+	width: 1350px;
+	height: 70px;
+	padding-left: 1000px;
+	font-size: 13px;
+}
+.son p
+{
+	padding-top: 30px;
+    margin-left: -882px;
 }
