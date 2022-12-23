@@ -575,12 +575,15 @@ hr
 .son
 {
 	width: 1350px;
-	height: 70px;
-	padding-left: 1000px;
+	height: 70px; 
 	font-size: 13px;
+	padding-left: 40px;
 }
 .son p
 {
 	padding-top: 30px;
-    margin-left: -882px;
+    
+}
+.clear{
+	clear: both;
 }
